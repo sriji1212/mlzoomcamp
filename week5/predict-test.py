@@ -24,9 +24,9 @@ customer = {
     "contract": "month-to-month",
     "paperlessbilling": "yes",
     "paymentmethod": "electronic_check",
-    "tenure": 24,
+    "tenure": 12,
     "monthlycharges": 29.85,
-    "totalcharges": (24 * 29.85)
+    "totalcharges": (12 * 29.85)
 }
 
 
